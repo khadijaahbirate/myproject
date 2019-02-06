@@ -1,0 +1,64 @@
+
+body{
+    background-color:lightskyblue;
+	
+}
+h1{
+	  background-color:slateblue;
+	  border:2px solid black;
+	  margin-top:40px;
+	  margin-left:18px;
+	  margin-right:18px;
+	  text-align:center;
+	  font-size:28pt;
+	  
+	  
+	}
+ .inpbot{
+	   background-color:tan;
+	    border:2px solid black;
+         margin-top:-4px;
+	     margin-left:20px;
+	     margin-right:20px;
+		 padding:30px;
+		 
+}
+.mybott{
+	background-color:tan;
+	text-align:center;
+	font-size:20;
+	position: relative;
+    left:400px;
+	font-family:arial, sans_serif;
+	text-decoration:underline;
+}
+div{
+	background-color:moccasin;
+	border:2px dashed cadetblue;
+	padding-top:1px
+     margin-top:-4px;
+	 margin-left:20px;
+	 margin-right:20px;
+	
+}
+  #spbod {
+	background-color:lightyellow;
+	border:2px dashed cadetblue;
+	margin:10px;
+
+	
+}
+h3{
+	font-size:24PX;
+	text-align:center;
+	text-decoration:underline;
+}
+p{
+	font-size:20px;
+	text-align:center;
+	
+}
+
+
+
+	
